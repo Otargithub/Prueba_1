@@ -1,0 +1,13 @@
+[{"alumno":javier,"nota":9.09, "ranking":1},
+{"alumno":Lucas,"nota":6.09, "ranking":6}, 
+{"alumno":fernando,"nota":5.0, "ranking":5},
+{"alumno":luis,"nota":4.0, "ranking":4}, 
+{"alumno":carlos,"nota":3.0, "ranking":3},
+{"alumno":rosa,"nota":3.0, "ranking":3},
+{"alumno":luisa,"nota":2.0, "ranking":3},
+{"alumno":julia,"nota":2.0, "ranking":2},
+{"alumno":Ari,"nota":1.0, "ranking":8},
+{"alumno":pepa,"nota":7.0, "ranking":7},
+{"alumno": Gema,"nota":10.0, "ranking":9},
+{"alumno":fer,"nota":8.0, "ranking":2},
+{"alumno":nico,"nota":7.5, "ranking":6}]
